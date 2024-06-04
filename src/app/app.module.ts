@@ -23,8 +23,8 @@ import { AuthModule } from '@auth0/auth0-angular';
     BrowserModule,
     AppRoutingModule,
     AuthModule.forRoot({
-      domain: 'dev-qfrrxmdr6mol6qs4.us.auth0.com',
-      clientId: 'B4RFQqgBMUBXinyXlTQeNaFwvMt8eaRJ',
+      domain: 'dev-anfeb16y46vowabm.us.auth0.com',
+      clientId: '8gHYDZ78mxYXI9SkqTOsHrqO8ABvgWds',
       authorizationParams: {
         redirect_uri: window.location.origin
       }
